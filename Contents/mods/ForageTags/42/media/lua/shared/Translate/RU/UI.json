@@ -1,0 +1,12 @@
+{
+    "UI_ForageTags_WindowTitle": "Метки собирательства",
+    "UI_ForageTags_AllCategories": "Все категории",
+    "UI_ForageTags_HomingArrow": "Указатель направления",
+    "UI_ForageTags_Cat_FishBait": "Наживка",
+    "UI_ForageTags_Cat_DeadAnimals": "Мёртвые животные",
+    "UI_ForageTags_Cat_Bones": "Кости",
+    "UI_ForageTags_Cat_CraftingMaterials": "Материалы для крафта",
+    "UI_ForageTags_Cat_ForestGoods": "Лесные товары",
+    "UI_ForageTags_Cat_ForestRarities": "Лесные редкости",
+    "UI_ForageTags_Cat_Artifacts": "Артефакты"
+}

@@ -1,0 +1,21 @@
+# Steam Workshop deployment config — not source
+workshop.txt
+preview.png
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Game output
+console.txt
+*.log
+
+# Backups and temp files
+*.bak
+*.tmp
+*.orig
+*~
